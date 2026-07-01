@@ -1,6 +1,6 @@
 # STS Customer Service — ServiceNow Scoped Application
 
-> **Interview Challenge Implementation** | Developer: richofftechllc | March 2026
+> ** Challenge Implementation** | Developer: richofftechllc | March 2026
 
 ---
 
